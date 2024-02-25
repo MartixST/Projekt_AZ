@@ -1,0 +1,6 @@
+﻿  graph.cpp
+D:\Yandex\YandexDisk\Диск\Programming\Projects (1)\C++\Projekt_Antonina_Zhileeva\Projekt_Antonina_Zhileeva\Projekt_Antonina_Zhileeva\graph.cpp(48,54): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Yandex\YandexDisk\Диск\Programming\Projects (1)\C++\Projekt_Antonina_Zhileeva\Projekt_Antonina_Zhileeva\Projekt_Antonina_Zhileeva\graph.cpp(84,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  Projekt_Antonina_Zhileeva.vcxproj -> D:\Yandex\YandexDisk\Диск\Programming\Projects (1)\C++\Projekt_Antonina_Zhileeva\Projekt_Antonina_Zhileeva\x64\Debug\Projekt_Antonina_Zhileeva.exe
